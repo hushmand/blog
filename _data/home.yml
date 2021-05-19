@@ -10,8 +10,8 @@ navbar_entries:
 
 project_entries:
   - title: MatchMarry
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    url: https://matchmarry.com/en
+    desc: Match Marry is the first, largest and only partner search for marriage and immigration.
 
   - title: Jeit
     url: overview-post
